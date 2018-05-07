@@ -1,7 +1,7 @@
 # Myntra Size Check
-Check available size of product on myntra
+Check available sizes
 
-Usage
+#### Usage
 ```
 python size_check.py https://www.myntra.com/2363435
 ```
